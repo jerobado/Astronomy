@@ -13,4 +13,4 @@ Example:
 
 **ligh-year** - distance travelled by light in one year, equiavalent to 3 x 10<sup>5</sup> km/s
 
-- [ ] TODO: solve examples 1.2
+[bookmark](https://openstax.org/books/astronomy/pages/1-7-the-universe-on-the-large-scale) <-- read next
