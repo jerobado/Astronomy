@@ -1,0 +1,15 @@
+**Geocentric** - superseded description of the Universe with Earth at the center.
+
+**Zenith** - the point above your head
+
+**Horizon** - the point where the sky meets the Earth
+
+**Celestial Sphere** - an imaginary sphere of which the observer is at the center and on which all celestial objects are considered to lie.
+
+**Celestial Poles** - the points where the line intersects the celestial sphere.
+
+**Celestial Equator** - the line the lies halfway between the celestial poles. Or, the extension of the Earth's equator.
+
+**Ecliptic** - the path the Sun appears to take around the celestial sphere each year, tilted by 23.5° with respect to the celestial equator.
+
+[bookmark](https://openstax.org/books/astronomy/pages/2-2-ancient-astronomy) <-- study next
