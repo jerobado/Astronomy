@@ -24,4 +24,4 @@ You --> Earth --> Solar System --> Milky Way --> Local Group --> Virgo Superclus
 
 **Cosmic Calendar**
 
-![Cosmic Calendar](https://github.com/jerobado/Astronomy/blob/master/images/cosmic-calendar.jpg "Cosmic Calendar")
+![Cosmic Calendar](https://github.com/jerobado/Astronomy/blob/master/images/cosmic-calendar.png "Cosmic Calendar")
