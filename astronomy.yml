@@ -1,0 +1,12 @@
+# Astronomy environment file
+
+# Usage:
+#   conda env create -f astronomy.yml
+
+name: astronomy
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - astropy
+  - jupyterlab
